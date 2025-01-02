@@ -12,7 +12,11 @@ Guys, one thing I learned that it's better to have less but valuable information
 Hope, it could save you sometime
 
 # 1 - Windows box enumeration
-In situation when you get to the box and would like to collect basic infomation also looking for some Privilege Escalation paths
+In situation when you get to the box and would like to collect basic infomation also looking for some Privilege Escalation paths:
+* Non-standard folders
+* Evaluation and ranking of current user privileges
+* Full logic of checks for possible UAC bypass
+* Other useful info
 
 USAGE - quick:
 ```powershell
