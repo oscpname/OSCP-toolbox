@@ -58,4 +58,5 @@ powershell -ep bypass -file AD_enum.ps1
 * Active Directory full data: https://github.com/adrecon/ADRecon
 * Very handy collection of different tools: https://github.com/FuzzySecurity/PowerShell-Suite
 * Data over remote host: https://github.com/gfoss/PSRecon
+* ADSearch source repo: https://github.com/tomcarver16/ADSearch
 
