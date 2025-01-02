@@ -23,7 +23,7 @@ In situation when you have credentials of any AD user you could try to collect s
 - Kerberoasting
 
 You would need to have 2 files in the same folder to run these checks
-1) This amazing tool to run AD queries:
+1) This amazing tool to run AD queries via LDAP protocol: https://github.com/tomcarver16/ADSearch 
 2) The script from this repo
 USAGE:
 ```powershell
