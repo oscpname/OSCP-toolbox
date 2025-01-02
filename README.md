@@ -20,8 +20,19 @@ powershell -ep bypass -file basic_enum.ps1
 
 # 2  - Active Directory enumeration
 In situation when you have credentials of any AD user you could try to collect some data and make some basic checks:
+- Domain Controllers
+- MSSQL servers in Active Directory
+- Terminal Servers
+- All users
+- Domain Admins
+- Other admins
+- Users with SPN set
+- Accounts trusted for Delegation
+- Unconstrained delegation
+- Constrained delegation
 - AS-REP roasting
 - Kerberoasting
+- other useful checks
 
 You would need to have 2 files in the same folder to run these checks
 1) This amazing tool to run AD queries via LDAP protocol: https://github.com/tomcarver16/ADSearch 
