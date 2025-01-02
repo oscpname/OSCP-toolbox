@@ -53,4 +53,7 @@ USAGE:
 powershell -ep bypass -file AD_enum.ps1
 ```
 
+# Other good Powershell tools for reference
+* Amazing adPEAS: https://github.com/61106960/adPEAS/tree/main
+* 
 
