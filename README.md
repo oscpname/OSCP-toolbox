@@ -21,7 +21,7 @@ powershell -nologo -ep bypass -file basic_enum.ps1
 
 USAGE - heavy, including password search etc:
 ```powershell
-powershell -nologo -executionpolicy bypass -file basic_enum.ps1 extended
+powershell -nologo -ep bypass -file basic_enum.ps1 extended
 ```
 
 # 2  - Active Directory enumeration
