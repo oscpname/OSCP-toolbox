@@ -15,7 +15,7 @@ Hope, it could save you sometime
 In situation when you get to the box and would like to collect basic infomation also looking for some Privilege Escalation paths
 USAGE: 
 ```powershell
-powershell -ep bypass -file basic_enum.ps1
+powershell -nologo -ep bypass -file basic_enum.ps1
 ```
 
 # 2  - Active Directory enumeration
