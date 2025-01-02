@@ -17,3 +17,17 @@ USAGE:
 powershell -ep bypass -file basic_enum.ps1
 ```
 
+# 2  - Active Directory enumeration
+In situation when you have credentials of any AD user you could try to collect some data and make some basic checks:
+- AS-REP roasting
+- Kerberoasting
+
+You would need to have 2 files in the same folder to run these checks
+1) This amazing tool to run AD queries:
+2) The script from this repo
+USAGE:
+```powershell
+powershell -ep bypass -file AD_enum.ps1
+```
+
+
