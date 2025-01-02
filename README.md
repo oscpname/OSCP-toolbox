@@ -56,5 +56,5 @@ powershell -ep bypass -file AD_enum.ps1
 # Other good Powershell tools for reference
 * Amazing adPEAS: https://github.com/61106960/adPEAS/tree/main
 * Active Directory full data: https://github.com/adrecon/ADRecon
-* 
+* Very handy collection of different tools: https://github.com/FuzzySecurity/PowerShell-Suite
 
