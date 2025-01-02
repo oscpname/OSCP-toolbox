@@ -13,9 +13,15 @@ Hope, it could save you sometime
 
 # 1 - Windows box enumeration
 In situation when you get to the box and would like to collect basic infomation also looking for some Privilege Escalation paths
-USAGE: 
+
+USAGE - quick:
 ```powershell
 powershell -nologo -ep bypass -file basic_enum.ps1
+```
+
+USAGE - heavy, including password search etc:
+```powershell
+powershell -nologo -executionpolicy bypass -file basic_enum.ps1 extended
 ```
 
 # 2  - Active Directory enumeration
